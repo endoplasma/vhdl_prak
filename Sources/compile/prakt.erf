@@ -1,0 +1,5 @@
+MESSAGE "File: r:\Uni\VHDL\Praktikum\Sources\src\20_multi\multi.vhd" 
+MESSAGE "Compile Entity "mult"" 
+WARNING DAGGEN_0523: "The source is compiled without the -dbg switch. Line breakpoints and code coverage will not be available." 
+MESSAGE "Compile Architecture "behave" of Entity "mult"" 
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time :  0.1 [s]" 

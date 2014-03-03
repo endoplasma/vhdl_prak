@@ -1,0 +1,98 @@
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# Warning: WAVEFORM: Object matching mult_norm/a_int not found in r:/Uni/VHDL/Praktikum/Sources/src/wave.asdb.
+# Warning: WAVEFORM: Object matching mult_norm/b_int not found in r:/Uni/VHDL/Praktikum/Sources/src/wave.asdb.
+asim mult_pipe_tb behave
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# asim: Stack memory: 32MB
+# asim: Retval memory: 32MB
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# ELAB2: Elaboration final pass complete - time: 0.1 [s].
+# KERNEL: Warning: You are using the Active-HDL EDU Edition. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: Contact Aldec for available upgrade options - sales@aldec.com.
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 2166 kB (elbread=1041 elab2=821 kernel=304 sdf=0)
+# KERNEL: ASDB file was created in location r:\Uni\VHDL\Praktikum\Sources\src\wave.asdb
+#  10:29, Montag, 3. März 2014
+#  Simulation has been initialized
+#  Selected Top-Level: mult_pipe_tb (behave)
+# 6 signal(s) traced.
+# 3 signal(s) traced.
+restart
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# ELAB2: Elaboration final pass complete - time: 0.1 [s].
+# KERNEL: Warning: You are using the Active-HDL EDU Edition. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: Contact Aldec for available upgrade options - sales@aldec.com.
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 2166 kB (elbread=1041 elab2=821 kernel=304 sdf=0)
+# KERNEL: ASDB file was created in location r:\Uni\VHDL\Praktikum\Sources\src\wave.asdb
+#  10:29, Montag, 3. März 2014
+#  Simulation has been initialized
+#  Selected Top-Level: mult_pipe_tb (behave)
+run 161 us
+endsim
+# KERNEL: stopped at time: 159909 ns
+#  Simulation has been stopped
+asim mult_pipe_tb behave
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# asim: Stack memory: 32MB
+# asim: Retval memory: 32MB
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# ELAB2: Elaboration final pass complete - time: 0.1 [s].
+# KERNEL: Warning: You are using the Active-HDL EDU Edition. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: Contact Aldec for available upgrade options - sales@aldec.com.
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 2166 kB (elbread=1041 elab2=821 kernel=304 sdf=0)
+# KERNEL: ASDB file was created in location r:\Uni\VHDL\Praktikum\Sources\src\wave.asdb
+#  10:29, Montag, 3. März 2014
+#  Simulation has been initialized
+#  Selected Top-Level: mult_pipe_tb (behave)
+# 6 signal(s) traced.
+# 11 signal(s) traced.
+restart
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# ELAB2: Elaboration final pass complete - time: 0.1 [s].
+# KERNEL: Warning: You are using the Active-HDL EDU Edition. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: Contact Aldec for available upgrade options - sales@aldec.com.
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 2166 kB (elbread=1041 elab2=821 kernel=304 sdf=0)
+# KERNEL: ASDB file was created in location r:\Uni\VHDL\Praktikum\Sources\src\wave.asdb
+#  10:29, Montag, 3. März 2014
+#  Simulation has been initialized
+#  Selected Top-Level: mult_pipe_tb (behave)
+run 100 ns
+# KERNEL: stopped at time: 100 ns
+# KERNEL: Signal 'a' has already been traced
+# KERNEL: Signal 'b' has already been traced
+# KERNEL: Signal 's_normal' has already been traced
+# KERNEL: Signal 's_pipe' has already been traced
+# KERNEL: Signal 'takt' has already been traced
+# KERNEL: Signal 'takt_select' has already been traced
+# 0 signal(s) traced.
+#  Simulation has been stopped

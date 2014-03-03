@@ -1,0 +1,9 @@
+MESSAGE "File: R:\Uni\VHDL\Praktikum\Sources\src\10_SP\sp_umsetzer_TB.vhd" 
+MESSAGE "Compile Entity "sp_umsetzer_TB"" 
+WARNING DAGGEN_0523: "The source is compiled without the -dbg switch. Line breakpoints and code coverage will not be available." 
+MESSAGE "Compile Architecture "behave" of Entity "sp_umsetzer_TB"" 
+ERROR COMP96_0078: "Unknown identifier "sp_umsetzer"." "R:\Uni\VHDL\Praktikum\Sources\src\10_SP\sp_umsetzer_TB.vhd" 16 39
+ERROR COMP96_0078: "Unknown identifier "gat"." "R:\Uni\VHDL\Praktikum\Sources\src\10_SP\sp_umsetzer_TB.vhd" 24 32
+ERROR COMP96_0133: "Cannot find object declaration." "R:\Uni\VHDL\Praktikum\Sources\src\10_SP\sp_umsetzer_TB.vhd" 24 32
+ERROR COMP96_0056: "Cannot find referenced entity declaration "generator"." "R:\Uni\VHDL\Praktikum\Sources\src\10_SP\sp_umsetzer_TB.vhd" 24 32
+FAILURE "Compile failure 4 Errors 0 Warnings  Analysis time :  47.0 [ms]" 

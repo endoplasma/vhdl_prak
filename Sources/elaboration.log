@@ -1,0 +1,27 @@
+elbread.dll ver. 1.0.5.375 Mon Mar 03 10:29:56 2014
+
+
+----------------------------------------
+Entity          | Architecture | Library
+----------------------------------------
+mult_pipe_tb    | behave       | prakt
+mult_pipe       | behave       | prakt
+mult            | behave       | prakt
+takt_gen        | behavior     | prakt
+s_reg_pipe      | behave       | prakt
+dt_b            | behave       | prakt
+weiss_box_pipe  | behave       | prakt
+and2            | behavior     | prakt
+voll_add        | behave       | prakt
+xor2            | behavior     | prakt
+or2             | behavior     | prakt
+grau_box_pipe   | behave       | prakt
+weiss_box       | behave       | prakt
+grau_box        | behave       | prakt
+----------------------------------------
+
+-------------------
+Package   | Library
+-------------------
+standard  | std
+-------------------

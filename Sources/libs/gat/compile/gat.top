@@ -1,0 +1,3 @@
+nand2 ENTITY
+nor2 ENTITY
+generator ENTITY

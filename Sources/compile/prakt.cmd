@@ -1,0 +1,1 @@
+-w -s "r:\Uni\VHDL\Praktikum\Sources\library.cfg"  -j "r:\Uni\VHDL\Praktikum\Sources\projlib.cfg"  -d "r:\Uni\VHDL\Praktikum\Sources\compile"   -work prakt  -O0 -e 100 -2002 "r:\\Uni\\VHDL\\Praktikum\\Sources\\src\\20_multi\\multi.vhd" 
