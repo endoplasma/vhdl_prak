@@ -1,5 +1,6 @@
 package ram_pack is
-	type byte is array (0 to 7) of BIT;
+	subtype byte is bit_vector(0 to 7);
+	--array (0 to 7) of BIT;
 	type s_mat is array (NATURAL range <>) of byte;
 end ram_pack;
 
